@@ -151,7 +151,8 @@ The confusion matrix heatmap is automatically generated and saved to `outputs/pl
 
 - **Presentation Slides (Strict 5-Slide PDF):** [slides/water_potability_group77.pdf](slides/water_potability_group77.pdf)
 - **Presentation Slides (PowerPoint):** [slides/water_potability_group77.pptx](slides/water_potability_group77.pptx)
-- **Video Presentation (≤ 5:00 min, Unlisted YouTube):** [YouTube Video Link](https://youtu.be/PLACEHOLDER) *(To be updated upon final assembly)*
+- **Video Presentation (≤ 5:00 min, Unlisted YouTube):** [https://youtu.be/RNDIyXuIR6U](https://youtu.be/RNDIyXuIR6U)
+- **Dataset Benchmark (Kaggle):** [Kaggle Water Quality Dataset](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
 - **Source Code Repository:** [https://github.com/yatharth-2026aib1099/AI101-Group77-WaterPotability](https://github.com/yatharth-2026aib1099/AI101-Group77-WaterPotability)
 
 ---
